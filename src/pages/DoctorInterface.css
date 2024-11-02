@@ -1,0 +1,39 @@
+/* DoctorInterface.css */
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.toggle-link {
+  color: #007bff;
+  cursor: pointer;
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+.toggle-link:hover {
+  color: #0056b3;
+}
+
+.error {
+  color: red;
+}
+
+  
